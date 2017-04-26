@@ -75,7 +75,7 @@
 
 		<ul class="list-projects">
 			<li>
-				<a class="link" mode="1">Mkt Projects</a>
+				<a class="link" mode="1">Marketing Projects</a>
 			</li>
 			<li>
 				<a class="link" mode="2">Design Projects</a>
@@ -175,7 +175,7 @@
 	<div class="large-12 columns section contact align-center" style="padding-bottom:60px">
 		<div class="row">
 		<h3>Looking for a creative solution service?</h3>
-		<p>It's time to take what you have and add to it. There's no need to start from Ground Zero - let's look at your organization's history and see what you have to in place for an existing brand and go from there!</p>
+		<p>It's time to take what you have and add to it. There's no need to start from Ground Zero - let's look at your organization's history and see what you have in place for an existing brand and go from there!</p>
 		<a class="typeform-share button" style="display: inline-block; text-decoration: none; background-color: #26c0dd; color: white; cursor: pointer; font-family: Helvetica,Arial,sans-serif; font-size: 22px; line-height: 55px; text-align: center; margin: 0; height: 55px; padding: 0px 36px; border-radius: 27px; max-width: 100%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: bold; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;" href="https://project100sample.typeform.com/to/aJC7WJ" target="_blank" data-mode="popup">Pop us a message!</a><script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id="typef_orm_share",b="https://s3-eu-west-1.amazonaws.com/share.typeform.com/";if(!gi.call(d,id)){js=ce.call(d,"script");js.id=id;js.src=b+"share.js";q=gt.call(d,"script")[0];q.parentNode.insertBefore(js,q)}})()</script>
 	</div>
 	</div>
@@ -187,7 +187,7 @@
 				<img src="<?= get_template_directory_uri() . '/images/my.jpg' ?>" alt="My H. Nguyen" />
 			</div>
 			<div class="large-9 medium-9 small-12 columns align-left">
-				<h3 class="bold">My H. Nguyen</h3>
+				<h3 class="bold">My H Nguyen</h3>
 				<h3 class="title">Project Lead</h3>
 				<p>
 					“Your prototypical t-shaped marketing polymath. Content warning: abstractly creative, project enthusiast, & too many thoughtful articles.”
